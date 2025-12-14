@@ -26,4 +26,4 @@ Users can add, view, and manage bank accounts through an interactive web interfa
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Akbar-Ali10/bank-system-project.git
+   https://bank-systeam-project-in-python-hk6kgr6pmtghkemju88ox2.streamlit.app/
